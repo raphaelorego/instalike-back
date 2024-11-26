@@ -1,0 +1,7 @@
+AIzaSyBRcz_7cV6ar4MCVtHkGBoYk6EIZG5NlTA
+
+MongoDB
+usuário: raphaelrego
+Senha: Q9N1k9hQ6deZtxDn
+
+mongodb+srv://raphaelrego:Q9N1k9hQ6deZtxDn@cluster0.yqkbl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
